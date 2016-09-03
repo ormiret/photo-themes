@@ -1,4 +1,4 @@
 import sys, logging
-sys.path.insert(0, "/home/ormiret/webapps/ideas/htdocs/")
+sys.path.insert(0, "/home/ormiret/webapps/theme/htdocs/")
 logging.basicConfig(stream=sys.stderr)
-from cards_against_hackspace.web import app as application
+from picker import app as application
