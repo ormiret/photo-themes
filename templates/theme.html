@@ -19,5 +19,11 @@
 <tt style="display: block; color: #fff;">Your photo theme is:</tt>
 <br>
 <tt style="display: block; color: #fff; margin-left: 5em;">{{ theme }}</tt>
+
+<section>
+{% for image in images %}
+<a href="{{ image.page_url }}"><img src="{{ image.image }}"></img></a>
+{% endfor %}
+</section>
 </body>
 </html>
