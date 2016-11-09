@@ -370,7 +370,6 @@ only natural
 showing motion
 love story
 all indoors
-joy
 family
 seasonal color
 education
@@ -415,7 +414,8 @@ reconnect
 common ground
 passion
 backyard
-thriving - to celebrate the 13th anniversary of betterphoto.com
+thriving
+anniversary
 belonging
 re-creation
 togetherness
@@ -434,7 +434,7 @@ nature's gifts
 blessings
 kindred spirits
 beautiful blur
-pictures of people taking pictures
+people taking pictures
 bliss
 vacation time
 gold
@@ -451,10 +451,8 @@ summer fun
 motion
 funny stuff
 black and white
-celebration ... to mark betterphoto.com's 10th anniversary
 purple, pink, or white
 transform
-joy
 adventure
 energy
 education
@@ -462,7 +460,7 @@ simplicity
 pictures of beach fun
 scary travel photos
 roaring lions and funny cats
-unforgettable faces photo contest
+unforgettable faces 
 planes, trains, and automobiles
 love
 renewal
@@ -484,7 +482,7 @@ angel eyes
 april showers
 color tour
 architecture
-art in your heart (capture what art means to you)
+art in your heart 
 artist
 art
 reflections
@@ -495,7 +493,7 @@ astrology
 bad picture
 bad weather hair
 becoming part of the earth
-beer can photo contest
+beer can
 sign
 big foot
 birds
@@ -507,14 +505,14 @@ bridge over troubled water
 cabin fever
 childhood
 children
-coolest bird feeder – bath
-close calls – just missing danger
+bird feeder/bath
+close calls 
 color of life
 concerts
 contradictions
 costume contest
-ugly kitchen contest
-crazy sign photo contest
+ugly kitchen 
+crazy sign
 summer fun
 crazy eyes
 creepy-crawlies
@@ -528,19 +526,18 @@ events
 faces
 family
 fashion
-father’s day photo contest
+father
 fire
 fireworks
 fishing lures
 flower power
-food (what’s on your table)
+food (what’s on your table?)
 food photography
 frozen in time
 frozen water
 fungus among us
 game room
 get boxed in
-go fish – show us your business card
 graffiti
 halloween costume contest
 how to choose the perfect engagement ring
@@ -578,14 +575,15 @@ pumpkin carving contest
 animals
 pets in hats
 photos of photos
-rain photo contest
+rain 
 rainbows
-red (photo something that has red)
+red
 re-shoot this idea
 rocks
 saskatch
-scary clouds – amazing skies
-science photo contest -(when art are meets science)
+scary clouds
+amazing skies
+science 
 seasonal change
 seasons
 self portrait
@@ -597,18 +595,18 @@ smooth as glass
 snow and ice
 something bad about to happen
 something old-something new
-sounds ( can you hear the noise in the photo)
+sounds 
 sticky stuff
 stone walls
 street stories
-strength in numbers – (sharing objects in numbers *hint*)
+strength in numbers
 take your best shot
 textures
 the art of nature
 the best summer photo contest
 the edge of civilization
 the family
-the human hand contest
+the human hand
 the line of perfection
 the right place at the right time
 the ties that blind
@@ -632,7 +630,7 @@ wild places
 wine country
 winter blues
 young at heart
-your so hot, you don’t even need to wear a winter coat
+you're so hot
 hung over
 nursery rhymes
 animals
@@ -711,8 +709,8 @@ kites
 ladybugs
 leaves
 legs
-looking “down,”
-looking “up,”
+looking down
+looking up
 light bulbs
 locks
 masks
@@ -757,7 +755,7 @@ self
 shadows
 silhouettes
 skulls
-sleeping animals and people
+sleeping animals and/or people
 smoke stacks
 snakes
 snow
@@ -1335,3 +1333,5 @@ world within a world
 zen
 zodiac
 zoom in
+bubbles
+contemplation
